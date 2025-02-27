@@ -7,7 +7,7 @@
 - 실효성 있는 기능으로 재구성
 
 ## Screenshot
-
+![screenshot](screenshot.jpg)
 
 ## Support version
 - Xcode 16 이상
