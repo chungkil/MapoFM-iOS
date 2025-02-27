@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  Mapofm
+
+  Created by Jongwook Park on 2/17/25.
+  
+*/
+"CFBundleDisplayName" = "마포FM";
+"CFBundleName" = "마포FM";
