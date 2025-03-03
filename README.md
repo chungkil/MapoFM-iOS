@@ -43,7 +43,7 @@
 이 프로젝트는 오픈 소스로 진행되며, 여러분의 기여를 환영합니다! 기여 방법은 다음과 같습니다.
 
 1. **Issue:** 버그 리포트, 기능 요청, 아이디어 제안 등은 [Issues](https://github.com/your-username/MapoFM-iOS/issues)에 자유롭게 올려주세요.
-2. **Pull Request:** 코드 기여는 Pull Request를 통해 환영합니다. 기여 전에 `CONTRIBUTING.md` 파일을 참고해주세요. (파일 생성 필요)
+2. **Pull Request:** 코드 기여는 Pull Request를 통해 환영합니다.
 
 ## 라이선스
 
