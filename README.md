@@ -5,7 +5,7 @@
 [![Xcode](https://img.shields.io/badge/Xcode-16+-blue.svg)](https://developer.apple.com/xcode/)
 [![iOS](https://img.shields.io/badge/iOS-18+-blue.svg)](https://www.apple.com/ios/ios-18/)
 
-**마포FM**의 iOS 앱 버전 개발을 위한 제안 및 프로토타입 프로젝트입니다.  현재는 Android 버전("씨알")만 제공되고 있으며, 이 프로젝트를 통해 iOS 사용자들에게도 마포FM의 라디오 방송 서비스를 제공하고자 합니다.
+**마포FM**의 iOS 앱 버전 개발을 위한 제안 및 프로토타입 프로젝트입니다.  현재는 마포FM 앱은 공식적으로 Android 버전("씨알")만 제공되고 있습니다. 이 프로젝트를 통해 iOS 사용자들에게도 마포FM의 라디오 방송 서비스가 생기기를 기대합니다.
 
 ## 프로젝트 개요
 
